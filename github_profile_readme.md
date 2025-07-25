@@ -10,7 +10,7 @@
 - 💻 Passionate about **AI/ML**, **Computer Vision**, and **Full-Stack Web Development**
 - 🌱 Actively learning **React.js**, **Node.js**, **MongoDB**, and **Deep Learning**
 - ⚙️ Exploring **Cybersecurity** & hands-on with **Python** & **OpenCV**
-- 📫 Reach me at: **brajakishor.dev@gmail.com**
+- 📫 Reach me at: **tamuli.js.dev@gmail.com**
 
 ---
 
@@ -38,9 +38,9 @@
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/brajakishor-tamuli/) *(Add your link if available)*
+- 💼 [LinkedIn](linkedin.com/in/brajakishor-tamuli-312151250)
 - 🧠 [My Projects](https://github.com/Dev-B-cypher?tab=repositories)
-- ✉️ brajakishor.dev@gmail.com
+- ✉️ tamuli.js.dev@gmail.com
 
 ---
 
