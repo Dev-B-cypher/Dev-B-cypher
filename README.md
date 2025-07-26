@@ -65,20 +65,20 @@ print(f"👨‍💻 {brajakishor.name} - {brajakishor.current_project}")
 
 <div align="center">
 
-### 🔭 What I'm Currently Working On
-**🤖 Real-Time PPE Detection System with Email Alerts**  
+## 🔭 What I'm Currently Working On
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="250">
+**🤖 Real-Time PPE Detection System with Email Alerts**
 *Using Computer Vision and Deep Learning to enhance workplace safety*
 
 ### 🌱 Currently Learning
-- **React.js** - Building dynamic user interfaces
-- **Node.js & Express** - Server-side development
-- **MongoDB** - NoSQL database management  
-- **Deep Learning** - Advanced AI techniques
-- **Cybersecurity** - Protecting digital assets
 
-</div>
+- **React.js** - Building dynamic UIs
+- **Node.js \& Express** - Server-side dev
+- **MongoDB** - NoSQL mastery
+- **Deep Learning** - Advanced AI
+- **Cybersecurity** - Digital defense
 
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -247,7 +247,10 @@ graph TD
 ## 🎵 Currently Jamming To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+  ### 🎧 Currently Jamming To
+
+[![Spotify](https://img.shields.io/badge/Listening-Post%20Malone%20-%20rockstar-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb)
+
 </div>
 
 ---
