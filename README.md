@@ -360,7 +360,7 @@ graph TD
 
   <!-- Buy Me a Coffee Button -->
   <button 
-    onclick="window.open('https://www.buymeacoffee.com/brajakishor', '_blank')" 
+    onclick="window.open('https://buymeacoffee.com/Dev.B.cypher', '_blank')" 
     style="
       background-color: #FFDD00;
       color: #000000;
@@ -377,7 +377,7 @@ graph TD
 
   <!-- Optional image link version below -->
   <div style="margin-top: 10px;">
-    <a href="https://www.buymeacoffee.com/brajakishor" target="_blank">
+    <a href="https://buymeacoffee.com/Dev.B.cypher" target="_blank">
       <img 
         src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
         height="50" 
